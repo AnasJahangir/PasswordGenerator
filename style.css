@@ -182,7 +182,7 @@ footer{
 } 
 
 
-@media only screen and (max-width: 641px) {
+@media only screen and (max-width: 860px) {
     .main-footer{
         display: flex;
         justify-content: space-between;
@@ -195,17 +195,17 @@ footer{
         margin-top: 2.5rem;
     }
     .p{
-        font-size: 16px;
+        font-size: 17px;
         letter-spacing: 1px;
         width: 90%;
         line-height: 25px;   
      }
      .main-icons i{
-        font-size: 25px;
+        font-size: 26px;
         margin-right: 20px;
     }
     .anas{
-        font-size: 35px;
+        font-size: 36px;
 }
 
 
