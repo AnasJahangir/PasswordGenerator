@@ -161,7 +161,7 @@ footer{
 
 @media only screen and (max-width: 1060px){
 
-    .main-footer{
+   -footer{
         width: 80%;
     }
 
@@ -212,12 +212,6 @@ footer{
 }
 
  @media only screen and (max-width: 550px) {
-    .main{
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-        font-size:38px;
-    
-    }
     .h1{
         font-size: 55px;
     }
