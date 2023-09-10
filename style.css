@@ -224,12 +224,10 @@ footer{
     .h1{
         font-size: 47px;
     }
-    main{
-        font-size: 36px;
-    
+
+      .main-icons i{
+        margin-right: 10px;
     }
-
-
   }
 
 
